@@ -1,0 +1,4 @@
+light mode  = 9B947A
+dark mode = 161615
+
+logo color = F23334
